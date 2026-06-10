@@ -39,6 +39,8 @@ Brain Module
 <img width="1280" height="960" alt="5317f0e4-b963-4ad5-b4cc-3b0a5c2786c2" src="https://github.com/user-attachments/assets/fc2d229f-a287-4566-b139-ba4af934c6f4" />
 <img width="1280" height="960" alt="57def5b3-26fa-4768-aeef-6f3b6edfdd9f" src="https://github.com/user-attachments/assets/ccade523-1bdc-405a-b7f0-215d50d814d3" />
 
+# DEMO VIDEO
+https://youtu.be/7rbx3s6sY6w
 
 
 
