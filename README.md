@@ -1,4 +1,3 @@
-  # NRF-Rc-Controller
   ---
   #  What is the project? 
   
@@ -16,7 +15,11 @@ So cheap and unrelaible design and I want to do a version better and more argono
 ---
 
 # CAD 
-
+Final model 
+<img width="1280" height="720" alt="Rc Controller V2 v3" src="https://github.com/user-attachments/assets/24c090ef-fb8f-4728-b063-c58df7d951f2" />
+<img width="1280" height="720" alt="Rc Controller V2 v3s" src="https://github.com/user-attachments/assets/2c2c1121-033c-47dd-a9c1-b25d782a2bab" />
+<img width="1280" height="720" alt="Rc Controller V2 v3h" src="https://github.com/user-attachments/assets/0daa1291-2e8e-4947-802a-da4aa6ebb7e9" />
+<img width="1280" height="720" alt="Rc Controller V2 v3n" src="https://github.com/user-attachments/assets/ace7b534-02d5-42fe-8c3f-fb2f4aaa82a7" />
 # Modules 
 Joystick Module 
 <img width="1280" height="720" alt="Joystick Module v1" src="https://github.com/user-attachments/assets/4afe953e-3efb-4585-8ad0-bbf77939a79b" />
@@ -26,5 +29,16 @@ Buttons module
 <img width="1920" height="1080" alt="ffef9de6-67cd-4a47-a419-cfe457113b4f" src="https://github.com/user-attachments/assets/2277437b-c281-485a-986a-f5f6521564d3" />
 <img width="1520" height="722" alt="Buttons_linaire_module_v1_2026-May-25_10-12-05AM-000_CustomizedView13456841876" src="https://github.com/user-attachments/assets/9b500a24-bc5f-4c60-8735-e1110570d739" />
 <img width="1520" height="722" alt="f927a5b6-0077-4a14-99c6-ccd561592a5c" src="https://github.com/user-attachments/assets/c87cad21-418f-4db2-ae98-007190f74639" />
+Brain Module 
+<img width="1280" height="720" alt="Brain module v4" src="https://github.com/user-attachments/assets/b438bf1b-2740-466d-8fdd-7ab4ed1d1754" />
+<img width="1280" height="720" alt="Brain module v40" src="https://github.com/user-attachments/assets/0194cc17-6a8e-46d1-a6d5-b8c9db068bb4" />
+
+# Electronics 
+<img width="3000" height="3561" alt="circuit_image (2)" src="https://github.com/user-attachments/assets/0ebcbb0b-186d-47b0-9cfa-75eb27a08714" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/aa3a2b5e-6d36-4baa-a7f7-1c1e677acc96" />
+<img width="1280" height="960" alt="5317f0e4-b963-4ad5-b4cc-3b0a5c2786c2" src="https://github.com/user-attachments/assets/fc2d229f-a287-4566-b139-ba4af934c6f4" />
+<img width="1280" height="960" alt="57def5b3-26fa-4768-aeef-6f3b6edfdd9f" src="https://github.com/user-attachments/assets/ccade523-1bdc-405a-b7f0-215d50d814d3" />
+
+
 
 
