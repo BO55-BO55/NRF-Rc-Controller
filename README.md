@@ -1,11 +1,11 @@
   # NRF-Rc-Controller
   ---
-  # 💡 What is the project? 
+  #  What is the project? 
   
 This Project will be an NRF Controller but I want to to build a reliable one not a cheap DIY Rc controller in order to control My future project RC Plane and I want to build the project to be modular and easy to remake and develop/enhance whether with new components or new design for the body
 
 ---
- # 🎯 Why this project? 
+ #  Why this project? 
 I am from Tunisia ,north africa and we don't really have plenty of choices when its about choosing Rc controllers and I can't just import from europe or US 
 So I am obliged to go with DIY and making it myself if I really want to follow my Rc hobbys However I have already built several Ec controllers but they were not really reliable and useful I built projects like this 
 
