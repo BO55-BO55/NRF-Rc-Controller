@@ -1,5 +1,4 @@
-  ---
-  #  What is the project? 
+#  What is the project? 
   
 This Project will be an NRF Controller but I want to to build a reliable one not a cheap DIY Rc controller in order to control My future project RC Plane and I want to build the project to be modular and easy to remake and develop/enhance whether with new components or new design for the body
 
