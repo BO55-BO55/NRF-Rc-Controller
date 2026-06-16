@@ -41,5 +41,28 @@ Brain Module
 # DEMO VIDEO
 https://youtu.be/7rbx3s6sY6w
 
+# BOM 
+## Bill of Materials (BOM)
+
+| Item | Quantity | Unit Price (USD) | Total Price (USD) | AliExpress Link |
+|------|---------:|-----------------:|------------------:|----------------|
+| Joystick Module | 1 | $5.72 | $5.72 | [Link](https://ar.aliexpress.com/item/1005008290657090.html) |
+| Rotary Encoder Module | 1 | $6.00 | $6.00 | [Link](https://ar.aliexpress.com/item/1005001423308166.html) |
+| Linear Potentiometer | 1 | $5.38 | $5.38 | [Link](https://ar.aliexpress.com/item/1005007393023800.html) |
+| 10K Potentiometer | 1 | $0.30 | $0.30 | [Link](https://ar.aliexpress.com/item/1005005709041048.html) |
+| 1.77 TFT 160x128 Display (ST7735) | 1 | $1.86 | $1.86 | [Link](https://ar.aliexpress.com/item/1005006309710568.html) |
+| AMS1117 Module | 1 | $0.93 | $0.93 | [Link](https://ar.aliexpress.com/item/1005011921793796.html) |
+| 6x6 Tactile Button | 4 | $4.16 | $4.16 | [Link](https://ar.aliexpress.com/item/1005010093330224.html) |
+| 18650 Battery Cell | 2 | $1.71 | $3.42 | [Link](https://ar.aliexpress.com/item/1005011974701653.html) |
+| 18650 2-Cell Battery Holder | 1 | $0.97 | $0.97 | [Link](https://ar.aliexpress.com/item/4000859859685.html) |
+| Heat Set Inserts (M3) | 1 | $1.47 | $1.47 | [Link](https://ar.aliexpress.com/item/1005009760789373.html) |
+| On/Off Switch | 1 | $5.38 | $5.38 | [Link](https://ar.aliexpress.com/item/1005008525408190.html) |
+| XH2.54 Connector Kit | 1 | $7.26 | $7.26 | [Link](https://ar.aliexpress.com/item/1005006498660940.html) |
+| ESP32-S3 Development Board | 1 | $13.82 | $13.82 | [Link](https://ar.aliexpress.com/item/1005010195145577.html) |
+| 10x10 cm Perfboard | 1 | $4.69 | $4.69 | [Link](https://ar.aliexpress.com/item/1005007876120447.html) |
+| Toggle Switch | 1 | $5.89 | $5.89 | [Link](https://ar.aliexpress.com/item/1005002461701337.html) |
+| Filament | 1 | $30.08 | $30.08 | [Link](https://ar.aliexpress.com/item/1005001298882187.html) |
+| **PROJECT TOTAL** |  |  | **$97.33** |  |
+
 # NB !!!
 I used AI in the final code to optimize the Screen UI and the logic of the code 
